@@ -1,7 +1,7 @@
 ---
-title: "Test de static site con Hugo + Ananke"
+title: "NanoSexo 33"
 
-description: "Test sitio estático."
+description: "El Nano"
 
-featured_image: '/images/hero-image.jpg'
+featured_image: '/images/nano.jpg'
 ---
